@@ -1,4 +1,6 @@
-# Welcome to varietas.io - Yet another Open Source Community.
+# Welcome to varietas.io 
+
+**Yet another Open Source Community.**
 
 The world of Open Source (OS) communities and projects is great and  complex. There are dominant members like Apache Foundation and Eclipse  Foundation and all of them do great work. But new or small projects are  often independent and not organized. Sure, there are places for these  projects, but connecting projects and developers can lead everyone into  new spheres. That is where **varietas.io** takes its place.
 We want to provide a platform for
