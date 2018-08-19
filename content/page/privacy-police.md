@@ -16,66 +16,61 @@ The data protection declaration of the varietas.io is based on the  terms used b
 
 In this data protection declaration, we use, inter alia, the following terms:
 
-- #### a)    Personal data
+* **Personal data**
 
-  Personal data means any information relating to an identified or  identifiable natural person (“data subject”). An identifiable natural  person is one who can be identified, directly or indirectly, in  particular by reference to an identifier such as a name, an  identification number, location data, an online identifier or to one or  more factors specific to the physical, physiological, genetic, mental,  economic, cultural or social identity of that natural person.
+Personal data means any information relating to an identified or  identifiable natural person (“data subject”). An identifiable natural  person is one who can be identified, directly or indirectly, in  particular by reference to an identifier such as a name, an  identification number, location data, an online identifier or to one or  more factors specific to the physical, physiological, genetic, mental,  economic, cultural or social identity of that natural person.
 
-- #### b) Data subject
+*  **Data subject**
 
-  Data subject is any identified or identifiable natural person, whose  personal data is processed by the controller responsible for the  processing.
+Data subject is any identified or identifiable natural person, whose  personal data is processed by the controller responsible for the  processing.
 
-- #### c)    Processing
+* **Processing**
 
-  Processing is any operation or set of operations which is performed  on personal data or on sets of personal data, whether or not by  automated means, such as collection, recording, organisation,  structuring, storage, adaptation or alteration, retrieval, consultation,  use, disclosure by transmission, dissemination or otherwise making  available, alignment or combination, restriction, erasure or  destruction. 
+Processing is any operation or set of operations which is performed  on personal data or on sets of personal data, whether or not by  automated means, such as collection, recording, organisation,  structuring, storage, adaptation or alteration, retrieval, consultation,  use, disclosure by transmission, dissemination or otherwise making  available, alignment or combination, restriction, erasure or  destruction. 
 
-- #### d)    Restriction of processing
+* **Restriction of processing**
 
-  Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future. 
+Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future. 
 
-- #### e)    Profiling
+* **Profiling**
 
-  Profiling means any form of automated processing of personal data  consisting of the use of personal data to evaluate certain personal  aspects relating to a natural person, in particular to analyse or  predict aspects concerning that natural person's performance at work,  economic situation, health, personal preferences, interests,  reliability, behaviour, location or movements. 
+Profiling means any form of automated processing of personal data  consisting of the use of personal data to evaluate certain personal  aspects relating to a natural person, in particular to analyse or  predict aspects concerning that natural person's performance at work,  economic situation, health, personal preferences, interests,  reliability, behaviour, location or movements. 
 
-- #### f)     Pseudonymisation
+* **Pseudonymisation**
 
-  Pseudonymisation is the processing of personal data in such a manner  that the personal data can no longer be attributed to a specific data  subject without the use of additional information, provided that such  additional information is kept separately and is subject to technical  and organisational measures to ensure that the personal data are not  attributed to an identified or identifiable natural person. 
+Pseudonymisation is the processing of personal data in such a manner  that the personal data can no longer be attributed to a specific data  subject without the use of additional information, provided that such  additional information is kept separately and is subject to technical  and organisational measures to ensure that the personal data are not  attributed to an identified or identifiable natural person. 
 
-- #### g)    Controller or controller responsible for the processing
+* **Controller or controller responsible for the processing**
 
-  Controller or controller responsible for the processing is the  natural or legal person, public authority, agency or other body which,  alone or jointly with others, determines the purposes and means of the  processing of personal data; where the purposes and means of such  processing are determined by Union or Member State law, the controller  or the specific criteria for its nomination may be provided for by Union  or Member State law. 
+Controller or controller responsible for the processing is the  natural or legal person, public authority, agency or other body which,  alone or jointly with others, determines the purposes and means of the  processing of personal data; where the purposes and means of such  processing are determined by Union or Member State law, the controller  or the specific criteria for its nomination may be provided for by Union  or Member State law. 
 
-- #### h)    Processor
+* **Processor**
 
-  Processor is a natural or legal person, public authority, agency or  other body which processes personal data on behalf of the controller. 
+Processor is a natural or legal person, public authority, agency or  other body which processes personal data on behalf of the controller. 
 
-- #### i)      Recipient
+* **Recipient**
 
-  Recipient is a natural or legal person, public authority, agency or  another body, to which the personal data are disclosed, whether a third  party or not. However, public authorities which may receive personal  data in the framework of a particular inquiry in accordance with Union  or Member State law shall not be regarded as recipients; the processing  of those data by those public authorities shall be in compliance with  the applicable data protection rules according to the purposes of the  processing. 
+Recipient is a natural or legal person, public authority, agency or  another body, to which the personal data are disclosed, whether a third  party or not. However, public authorities which may receive personal  data in the framework of a particular inquiry in accordance with Union  or Member State law shall not be regarded as recipients; the processing  of those data by those public authorities shall be in compliance with  the applicable data protection rules according to the purposes of the  processing. 
 
-- #### j)      Third party
+* **Third party**
 
-  Third party is a natural or legal person, public authority, agency or  body other than the data subject, controller, processor and persons  who, under the direct authority of the controller or processor, are  authorised to process personal data.
+Third party is a natural or legal person, public authority, agency or  body other than the data subject, controller, processor and persons  who, under the direct authority of the controller or processor, are  authorised to process personal data.
 
-- #### k)    Consent
+* **Consent**
 
-  Consent of the data subject is any freely given, specific, informed  and unambiguous indication of the data subject's wishes by which he or  she, by a statement or by a clear affirmative action, signifies  agreement to the processing of personal data relating to him or her. 
+Consent of the data subject is any freely given, specific, informed  and unambiguous indication of the data subject's wishes by which he or  she, by a statement or by a clear affirmative action, signifies  agreement to the processing of personal data relating to him or her. 
 
 ## 2. Name and Address of the controller
 
 Controller for the purposes of the General Data Protection Regulation  (GDPR), other data protection laws applicable in Member states of the  European Union and other provisions related to data protection is:  
 
 Michael Rhöse
-
 Hugo-Schrade-Str. 2
-
 07745 Jena
-
 Germany
 
 Phone: 01725257884
-
 Email: noreply@varietas.io
-
 Website: https://varietas.io
 
 ## 3. Cookies
@@ -130,34 +125,34 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
 ## 10. Rights of the data subject
 
-- #### a) Right of confirmation
+* **Right of confirmation**
 
-  Each data subject shall have the right granted by the European  legislator to obtain from the controller the confirmation as to whether  or not personal data concerning him or her are being processed. If a  data subject wishes to avail himself of this right of confirmation, he  or she may, at any time, contact any employee of the controller.
+Each data subject shall have the right granted by the European  legislator to obtain from the controller the confirmation as to whether  or not personal data concerning him or her are being processed. If a  data subject wishes to avail himself of this right of confirmation, he  or she may, at any time, contact any employee of the controller.
 
-- #### b) Right of access
+* **Right of access**
 
-  Each data subject shall have the right granted by the European  legislator to obtain from the controller free information about his or  her personal data stored at any time and a copy of this information.  Furthermore, the European directives and regulations grant the data  subject access to the following information:
+Each data subject shall have the right granted by the European  legislator to obtain from the controller free information about his or  her personal data stored at any time and a copy of this information.  Furthermore, the European directives and regulations grant the data  subject access to the following information:
 
-  - the purposes of the processing;
-  - the categories of personal data concerned;
-  - the recipients or categories of recipients to whom the personal data  have been or will be disclosed, in particular recipients in third  countries or international organisations;
-  - where possible, the envisaged period for which the personal data  will be stored, or, if not possible, the criteria used to determine that  period;
-  - the existence of the right to request from the controller  rectification or erasure of personal data, or restriction of processing  of personal data concerning the data subject, or to object to such  processing;
-  - the existence of the right to lodge a complaint with a supervisory authority;
-  - where the personal data are not collected from the data subject, any available information as to their source;
-  - the existence of automated decision-making, including profiling,  referred to in Article 22(1) and (4) of the GDPR and, at least in those  cases, meaningful information about the logic involved, as well as the  significance and envisaged consequences of such processing for the data  subject.
+- the purposes of the processing;
+- the categories of personal data concerned;
+- the recipients or categories of recipients to whom the personal data  have been or will be disclosed, in particular recipients in third  countries or international organisations;
+- where possible, the envisaged period for which the personal data  will be stored, or, if not possible, the criteria used to determine that  period;
+- the existence of the right to request from the controller  rectification or erasure of personal data, or restriction of processing  of personal data concerning the data subject, or to object to such  processing;
+- the existence of the right to lodge a complaint with a supervisory authority;
+- where the personal data are not collected from the data subject, any available information as to their source;
+- the existence of automated decision-making, including profiling,  referred to in Article 22(1) and (4) of the GDPR and, at least in those  cases, meaningful information about the logic involved, as well as the  significance and envisaged consequences of such processing for the data  subject.
 
-  Furthermore, the data subject shall have a right to obtain  information as to whether personal data are transferred to a third  country or to an international organisation. Where this is the case, the  data subject shall have the right to be informed of the appropriate  safeguards relating to the transfer.
+Furthermore, the data subject shall have a right to obtain  information as to whether personal data are transferred to a third  country or to an international organisation. Where this is the case, the  data subject shall have the right to be informed of the appropriate  safeguards relating to the transfer.
 
-  If a data subject wishes to avail himself of this right of access, he  or she may, at any time, contact any employee of the controller.
+If a data subject wishes to avail himself of this right of access, he  or she may, at any time, contact any employee of the controller.
 
-- #### c) Right to rectification 
+* **Right to rectification**
 
-  Each data subject shall have the right granted by the European  legislator to obtain from the controller without undue delay the  rectification of inaccurate personal data concerning him or her. Taking  into account the purposes of the processing, the data subject shall have  the right to have incomplete personal data completed, including by  means of providing a supplementary statement.
+Each data subject shall have the right granted by the European  legislator to obtain from the controller without undue delay the  rectification of inaccurate personal data concerning him or her. Taking  into account the purposes of the processing, the data subject shall have  the right to have incomplete personal data completed, including by  means of providing a supplementary statement.
 
-  If a data subject wishes to exercise this right to rectification, he  or she may, at any time, contact any employee of the controller.
+If a data subject wishes to exercise this right to rectification, he  or she may, at any time, contact any employee of the controller.
 
-- #### d) Right to erasure (Right to be forgotten) 
+- **Right to erasure (Right to be forgotten)**
 
   Each data subject shall have the right granted by the European  legislator to obtain from the controller the erasure of personal data  concerning him or her without undue delay, and the controller shall have  the obligation to erase personal data without undue delay where one of  the following grounds applies, as long as the processing is not  necessary: 
 
@@ -172,7 +167,7 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
   Where the controller has made personal data public and is obliged  pursuant to Article 17(1) to erase the personal data, the controller,  taking account of available technology and the cost of implementation,  shall take reasonable steps, including technical measures, to inform  other controllers processing the personal data that the data subject has  requested erasure by such controllers of any links to, or copy or  replication of, those personal data, as far as processing is not  required. An employees of the varietas.io will arrange the necessary  measures in individual cases.
 
-- #### e) Right of restriction of processing
+- **Right of restriction of processing**
 
   Each data subject shall have the right granted by the European  legislator to obtain from the controller restriction of processing where  one of the following applies:
 
@@ -183,7 +178,7 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
   If one of the aforementioned conditions is met, and a data subject  wishes to request the restriction of the processing of personal data  stored by the varietas.io, he or she may at any time contact any  employee of the controller. The employee of the varietas.io will arrange  the restriction of the processing. 
 
-- #### f) Right to data portability
+- **Right to data portability**
 
   Each data subject shall have the right granted by the European  legislator, to receive the personal data concerning him or her, which  was provided to a controller, in a structured, commonly used and  machine-readable format. He or she shall have the right to transmit  those data to another controller without hindrance from the controller  to which the personal data have been provided, as long as the processing  is based on consent pursuant to point (a) of Article 6(1) of the GDPR  or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to  point (b) of Article 6(1) of the GDPR, and the processing is carried out  by automated means, as long as the processing is not necessary for the  performance of a task carried out in the public interest or in the  exercise of official authority vested in the controller.
 
@@ -191,7 +186,7 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
   In order to assert the right to data portability, the data subject may at any time contact any employee of the varietas.io.
 
-- #### g) Right to object
+- **Right to object**
 
   Each data subject shall have the right granted by the European  legislator to object, on grounds relating to his or her particular  situation, at any time, to processing of personal data concerning him or  her, which is based on point (e) or (f) of Article 6(1) of the GDPR.  This also applies to profiling based on these provisions.
 
@@ -203,7 +198,7 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
   In order to exercise the right to object, the data subject may  contact any employee of the varietas.io. In addition, the data subject  is free in the context of the use of information society services, and  notwithstanding Directive 2002/58/EC, to use his or her right to object  by automated means using technical specifications.
 
-- #### h) Automated individual decision-making, including profiling
+- **Automated individual decision-making, including profiling**
 
   Each data subject shall have the right granted by the European  legislator not to be subject to a decision based solely on automated  processing, including profiling, which produces legal effects concerning  him or her, or similarly significantly affects him or her, as long as  the decision (1) is not is necessary for entering into, or the  performance of, a contract between the data subject and a data  controller, or (2) is not authorised by Union or Member State law to  which the controller is subject and which also lays down suitable  measures to safeguard the data subject's rights and freedoms and  legitimate interests, or (3) is not based on the data subject's explicit  consent.
 
@@ -211,7 +206,7 @@ If the storage purpose is not applicable, or if a storage period  prescribed by 
 
   If the data subject wishes to exercise the rights concerning  automated individual decision-making, he or she may, at any time,  contact any employee of the varietas.io.
 
-- #### i) Right to withdraw data protection consent 
+- **Right to withdraw data protection consent **
 
   Each data subject shall have the right granted by the European  legislator to withdraw his or her consent to processing of his or her  personal data at any time. 
 
