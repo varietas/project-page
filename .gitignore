@@ -1,2 +1,11 @@
+/archetypes
+/archetypes/**
+/data
+/data/**
+/layouts
+/layouts/**
+/static
+/static/**
 /themes
 /themes/**
+config.toml

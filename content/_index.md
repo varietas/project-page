@@ -20,4 +20,4 @@ The size and the potential of the resulting prototype leads Micha to publish the
 
 As a site-effect, the idea of a pure Open Source Community was born. This community aims to help beginners to start there own projects and helps them with basic engineering tools, tips and information.
 
-Read more about the framework & the community [here](https://varietas.io/about).
+Read more about the framework & the community [here](https://varietas.io/page/about).
